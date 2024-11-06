@@ -1,0 +1,29 @@
+{
+  "collectAddress": "Nvo, lourdes pte, sda cortez blanco, pol ii, #10",
+  "date": "2024-11-05T06:00:00.000Z",
+  "name": "Geordy",
+  "lastName": "Reyes Mendoza",
+  "email": "geordymemdoza@gmail.com",
+  "phone": "64236560",
+  "deliveryAddress": "Nvo, lourdes pte, sda cortez blanco, pol ii, #10",
+  "department": "06",
+  "state": "33",
+  "referencePoint": "asdasd asdas",
+  "indications": "asd",
+  "orders": [
+    {
+      "large": 12,
+      "width": 21,
+      "height": 21,
+      "weight": 21,
+      "product": "21sadasasd"
+    },
+    {
+      "large": 12,
+      "width": 21,
+      "height": 21,
+      "weight": 21,
+      "product": "21sadasasd"
+    }
+  ]
+}
